@@ -1,0 +1,9 @@
+{% extends 'music_recommendation_app/base.html' %}
+{% block content %}
+<h2>Recommended Songs</h2>
+<ul>
+    {% for song in recommendations %}
+    <li>{{ song.name }} by {{ song.artists }} ({{ song.year }})</li>
+    {% endfor %}
+</ul>
+{% endblock %}
