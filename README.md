@@ -32,8 +32,7 @@ To get a local copy of the project up and running, follow these simple steps:
 **1. Clone the Repository :**
 
    ```bash
-   git clone https://github.com/ShahiduzzamanSajid/Interactive-Music-Recommendation-and-Visualization-System.git
-   cd Interactive-Music-Recommendation-and-Visualization-System
+   git clone https://github.com/ShahiduzzamanSajid/Music-Recommendation-System-Django/tree/main.git
 ```
 
 **2. Install the Required Libraries :**
